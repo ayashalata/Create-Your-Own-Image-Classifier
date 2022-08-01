@@ -13,3 +13,7 @@ This is the second project of udacity nano degree for ML, the goal is to classif
 in your terminal window. 
 
 You should be able to see the corresponding predictions probabilities with their label names according to the number of classes you've wrote in `top_k`, and in the last the application will print the best prediction of the flower, which eventually its actual name. 
+
+OR 
+
+just type `predict.py` and  will run the saved model with 5 top classes for orange dahlia flower by default. 
