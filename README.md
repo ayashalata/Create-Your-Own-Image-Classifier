@@ -5,7 +5,7 @@ This is the second project of udacity nano degree for ML, the goal is to classif
 * `Project_Image_Classifier_Project.ipynb` the notebook file of the entire project is [here.](https://github.com/ayashalata/Create-Your-Own-Image-Classifier/blob/main/Project_Image_Classifier_Project.ipynb)
 * 'Project_Image_Classifier_Project.html' HTML [file] of the jupyter notebook.
 
-* `Predict.py` impelmented [application] for the project, you can use terminal to check the results.
+* `Predict.py` impelmented [application](https://github.com/ayashalata/Create-Your-Own-Image-Classifier/blob/main/predict.py) for the project, you can use terminal to check the results.
 
 
 ### How to use the application:
