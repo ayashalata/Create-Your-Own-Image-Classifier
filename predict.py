@@ -51,7 +51,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Predict a flower type')
 
     parser.add_argument('--input', action='store', dest='input_i', default='./test_images/orange_dahlia.jpg')
-    parser.add_argument('--model', action='store', dest='model', default='./saved_model.h5')
+    parser.add_argument('--model', action='store', dest='model', default='./best_model.h5')
     parser.add_argument('--top_k', action='store', dest='top_k', default=5, type=int)
     parser.add_argument('--class_names', action='store', dest="class_names", default='./label_map.json')
 
